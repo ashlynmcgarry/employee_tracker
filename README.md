@@ -29,7 +29,7 @@ To ustilise the Employee Tracker you first need to clone the repository and open
 
 This generator can be used by entering 'node index.js' with VS Code's terminal and follow the prompts. For more usage and functionality details, see the demo video below.
 
-[video Demo](https://drive.google.com/file/d/168_mdImODtvLUJ9u0J-Lo-e9DcPXrW6k/view?usp=sharing)
+[Video Demo](https://drive.google.com/file/d/168_mdImODtvLUJ9u0J-Lo-e9DcPXrW6k/view?usp=sharing)
 
 ## License
 
