@@ -13,7 +13,7 @@ This Employee Tracker allows user to view and manage departments, roles, salarie
 - [Contributing](#contributing)
 - [Test](#test)
 - [Features](#features)
-- [Questions](#questions)
+- [Future Development](#future-development)
 
 ## Installation
 
@@ -51,3 +51,7 @@ If you would like to contribute to the project and make it better, please feel f
 - View and add a department
 - View and add a role
 - See salary totals per department
+
+## Future Development
+
+Future development opportunities for this application including allowing a user to view employees by thier manager, update the manager and view employees by their department. 
